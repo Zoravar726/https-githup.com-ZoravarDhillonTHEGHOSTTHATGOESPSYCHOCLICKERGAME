@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.ZoravarDhillon.THE GHOST THAT GOES PSYCHO CLICKER GAME.com"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>THE GHOST THAT GOES PSYCHO CLICKER GAME</name>
+
+  <description>
+      Answer some questions and then click the secret sprite to get a point (it moves every 0.43 seconds). Get 500 points in 500 seconds to win the game. It is possible to win but very hard to. you have to move your cursor very fast and click as soon as you can. 
+  </description>
+
+  <author href="https://build.phonegap.com" email="s1055582@haileybury.vic.edu.com">
+      Zoravar Dhillon
+  </author>
+  
+  <icon src="icon.png" />
+  
+  </widget>
